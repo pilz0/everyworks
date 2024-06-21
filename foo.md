@@ -7,7 +7,38 @@
 * Chillen lmao
 
 
-## "Interesseante" Funktionen
+## Foo
 * Nach ger Buchung wird irgendwie ein QR-Code generiert
 * Signup mit anderer Email aber gleicher Zahlungsmethode funktioniert
+* Bahncard vorzeigen
+
+## Gutscheincodes
+
+everyworks2024
+
+MANNHEIM60
+
+FlexWork180
+
+HANNOVER60
+
+BERLIN60
+
+DUESSELDORF60
+
+TryCowork180
+
+Vivien180
+
+republica24
+
+MitVergnuegen180
+
+Everyworks24
+
+DUSSELDORF60
+
+REMOTEWORK180
+
+DBLounge180
 
