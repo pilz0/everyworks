@@ -42,3 +42,4 @@ REMOTEWORK180
 
 DBLounge180
 
+AdinaHotel2024
