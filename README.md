@@ -8,7 +8,7 @@
 
 
 ## Foo
-* Nach ger Buchung wird irgendwie ein QR-Code generiert
+* Nach der Buchung wird irgendwie ein QR-Code generiert
 * Signup mit anderer Email aber gleicher Zahlungsmethode funktioniert
 * Bahncard vorzeigen
 
